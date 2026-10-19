@@ -1,6 +1,6 @@
 # Kubernetes_Labwork_14
 This repo contains the files  that were used during lab work 14
-# CTE412 Practical 15 — Campus Notice Board on Kubernetes
+# CTE412 Practical 14 — Campus Notice Board on Kubernetes
 
 Student: Sonam Choejur | Student number: 02230148
 
